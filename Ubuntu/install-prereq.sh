@@ -36,7 +36,7 @@ echo \
 sudo apt update
 
 # Install Docker
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+Y | sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
 echo "End of docker installation"
 echo "**************************************"
